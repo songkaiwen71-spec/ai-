@@ -1,0 +1,25 @@
+# 大数据舆情可视化分析系统 - 后端依赖
+
+# Flask框架
+Flask==2.3.3
+flask-cors==4.0.0
+
+# HTTP请求
+requests==2.31.0
+urllib3==2.0.7
+
+# 网页解析
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# 中文分词
+jieba==0.42.1
+
+# 情感分析
+snownlp==0.12.3
+
+# 数值计算
+numpy>=1.26.0
+
+# 其他工具
+python-dateutil==2.8.2

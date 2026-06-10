@@ -1,0 +1,23 @@
+{
+  "name": "weibo-sentiment-analysis-frontend",
+  "version": "1.0.0",
+  "description": "大数据舆情可视化分析系统 - 前端",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.15.0",
+    "china-map": "^1.0.0",
+    "echarts": "^5.6.0",
+    "echarts-wordcloud": "^2.1.0",
+    "vue": "^3.4.0",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.8"
+  }
+}
